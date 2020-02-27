@@ -1,0 +1,33 @@
+{
+	"msg": "ok",
+	"title": "添加一级目标",
+	"span": 1,
+	"formData": [{
+		"require": false,
+		"type": "checkbox",
+		"title": "标签",
+		"field": "label",
+		"value": ["1", "2", "3"],
+		"options": [{
+				"value": "1",
+				"label": "好用",
+				"disabled": true
+			},
+			{
+				"value": "2",
+				"label": "方便",
+				"disabled": false
+			},
+			{
+				"value": "3",
+				"label": "实用",
+				"disabled": false
+			},
+			{
+				"value": "4",
+				"label": "有效",
+				"disabled": false
+			}
+		]
+	}]
+}

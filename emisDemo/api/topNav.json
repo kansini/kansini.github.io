@@ -1,0 +1,95 @@
+[{
+		"name": "首页",
+		"path": "/"
+	},
+	{
+		"name": "目标管理",
+		"path": "/goalManagement",
+		"children": [{
+				"name": "年度目标管理",
+				"path": "/annual",
+				"third": [{
+						"name": "目标管理",
+						"path": "/management"
+					},
+					{
+						"name": "目标跟踪",
+						"path": "/tracking"
+					},
+					{
+						"name": "目标核发",
+						"path": "/issue"
+					},
+					{
+						"name": "目标报告",
+						"path": "/report"
+					},
+					{
+						"name": "目标确认",
+						"path": "/confirm"
+					}
+				]
+			},
+			{
+				"name": "月度目标管理",
+				"path": "/monthly",
+				"third": [{
+						"name": "目标管理",
+						"path": "/management"
+					},
+					{
+						"name": "目标跟踪",
+						"path": "/tracking"
+					},
+					{
+						"name": "目标核发",
+						"path": "/issue"
+					},
+					{
+						"name": "目标报告",
+						"path": "/report"
+					},
+					{
+						"name": "目标确认",
+						"path": "/confirm"
+					}
+				]
+			}
+		]
+
+	},
+
+	{
+		"name": "重点工作",
+		"path": "/keypoint"
+	},
+	{
+		"name": "领导批示",
+		"path": "/approval"
+	},
+	{
+		"name": "专项工作",
+		"path": "/specials"
+	},
+	{
+		"name": "重要会议",
+		"path": "/meeting"
+	},
+	{
+		"name": "页面配置",
+		"path": "/config"
+	},
+	{
+		"name": "综合查询",
+		"path": "/search"
+	},
+	{
+		"name": "统计分析",
+		"path": "/anylizes"
+	},
+	{
+		"name": "通讯录",
+		"path": "/contact"
+	}
+
+]

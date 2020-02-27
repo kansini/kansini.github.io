@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+@font-face {
+	font-family: "fzht";
+	src: url("../fonts/fangzheng/fzht.woff2") format("woff2"),
+		url("../fonts/fangzheng/fzht.woff") format("woff"),
+		url("../fonts/fangzheng/fzht.eot") format("embedded-opentype"),
+		url("../fonts/fangzheng/fzht.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "AgencyFB";
+	src: url("../fonts/agencyFB/AgencyFB.woff2") format("woff2"),
+		url("../fonts/agencyFB/AgencyFB.woff") format("woff"),
+		url("../fonts/agencyFB/AgencyFB.eot") format("embedded-opentype"),
+		url("../fonts/agencyFB/AgencyFB.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "lcd";
+	src: url("../fonts/lcd/LCDM2N__.woff2") format("woff2"),
+		url("../fonts/lcd/LCDM2N__.woff") format("woff"),
+		url("../fonts/lcd/LCDM2N__.ttf") format("truetype"),
+		url("../fonts/lcd/LCDM2N__.eot") format("embedded-opentype"),
+		url("../fonts/lcd/LCDM2N__.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+  font-family: '思源黑体';
+  font-display: swap;
+  src: url('//at.alicdn.com/t/webfont_fciaaufjzwl.eot'); /* IE9*/
+  src: url('//at.alicdn.com/t/webfont_fciaaufjzwl.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('//at.alicdn.com/t/webfont_fciaaufjzwl.woff2') format('woff2'),
+  url('//at.alicdn.com/t/webfont_fciaaufjzwl.woff') format('woff'), /* chrome、firefox */
+  url('//at.alicdn.com/t/webfont_fciaaufjzwl.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url('//at.alicdn.com/t/webfont_fciaaufjzwl.svg#思源黑体-正粗') format('svg'); /* iOS 4.1- */
+}
+@font-face {
+  font-family: 'webfont';
+  font-display: swap;
+  src: url('//at.alicdn.com/t/webfont_kzos6t5xo9.eot'); /* IE9*/
+  src: url('//at.alicdn.com/t/webfont_kzos6t5xo9.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('//at.alicdn.com/t/webfont_kzos6t5xo9.woff2') format('woff2'),
+  url('//at.alicdn.com/t/webfont_kzos6t5xo9.woff') format('woff'), /* chrome、firefox */
+  url('//at.alicdn.com/t/webfont_kzos6t5xo9.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url('//at.alicdn.com/t/webfont_kzos6t5xo9.svg#AlibabaPuHuiTiL') format('svg'); /* iOS 4.1- */
+}

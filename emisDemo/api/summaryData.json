@@ -1,0 +1,33 @@
+{
+	"summaryData1": {
+		"title": "重点工作",
+		"titleIcon": "./images/icons/ico-keypoint.svg",
+		"total": 556,
+		"summaries": [{
+				"summaryItemTitle": "省政府工作报告",
+				"status": 3,
+				"total": 14
+			},
+			{
+				"summaryItemTitle": "省重点民生实事",
+				"status": 0
+			},
+			{
+				"summaryItemTitle": "市重点民生实事",
+				"status": 2
+			},
+			{
+				"summaryItemTitle": "省政府工作报告",
+				"status": 3
+			},
+			{
+				"summaryItemTitle": "省重点民生实事",
+				"status": 0
+			},
+			{
+				"summaryItemTitle": "市重点民生实事",
+				"status": 2
+			}
+		]
+	}
+}

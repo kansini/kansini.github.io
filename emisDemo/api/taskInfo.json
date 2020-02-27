@@ -1,0 +1,102 @@
+{
+	"msg": "ok",
+	"taskData": [{
+			"id": "01",
+			"taskName": "2019年第一季度",
+			"submitUnit": "民政局",
+			"type": "牵头单位",
+			"deadline": "2019-03-23",
+			"taskState": "超期",
+			"submitDate": "2019-03-25",
+			"isRead": "未阅",
+			"stateLight": {
+				"state":1,
+				"desc":"正常"
+			}
+		},
+		{
+			"id": "02",
+			"taskName": "2019年第一季度",
+			"submitUnit": "民政局",
+			"type": "牵头单位",
+			"deadline": "2019-03-31",
+			"taskState": "提醒",
+			"submitDate": "2019-03-25",
+			"isRead": "已阅",
+			"stateLight": {
+				"state":1,
+				"desc":"正常"
+			}
+		},
+		{
+			"id": "03",
+			"taskName": "2019年第一季度",
+			"submitUnit": "民政局",
+			"type": "牵头单位",
+			"deadline": "2019-04-28",
+			"taskState": "正常",
+			"submitDate": "2019-03-20",
+			"isRead": "未阅",
+			"stateLight": {
+				"state":1,
+				"desc":"正常"
+			}
+		},
+		{
+			"id": "04",
+			"taskName": "2019年第一季度",
+			"submitUnit": "民政局",
+			"type": "牵头单位",
+			"deadline": "2019-05-01",
+			"taskState": "未到期",
+			"submitDate": "2019-03-20",
+			"isRead": "未阅",
+			"stateLight": {
+				"state":3,
+				"desc":"超期"
+			}
+		},
+		{
+			"id": "05",
+			"taskName": "2019年第一季度",
+			"submitUnit": "民政局",
+			"type": "牵头单位",
+			"deadline": "2019-05-01",
+			"taskState": "未到期",
+			"submitDate": "2019-03-01",
+			"isRead": "未阅",
+			"stateLight": {
+				"state":2,
+				"desc":"滞后"
+			}
+		},
+		{
+			"id": "06",
+			"taskName": "2019年第一季度",
+			"submitUnit": "民政局",
+			"type": "牵头单位",
+			"deadline": "2019-03-23",
+			"taskState": "超期",
+			"submitDate": "2019-03-25",
+			"isRead": "未阅",
+			"stateLight": {
+				"state":0,
+				"desc":"未到期"
+			}
+		},
+		{
+			"id": "07",
+			"taskName": "2019年第一季度",
+			"submitUnit": "民政局",
+			"type": "牵头单位",
+			"deadline": "2019-03-31",
+			"taskState": "提醒",
+			"submitDate": "2019-03-25",
+			"isRead": "已阅",
+			"stateLight": {
+				"state":1,
+				"desc":"正常"
+			}
+		}
+	]
+}

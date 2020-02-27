@@ -1,0 +1,580 @@
+{
+	"msg": "ok",
+	"data": [{
+			"id": "01",
+			"goalTask": "2.稳定工业经济增长。",
+			"requirement": "切实加强运行调度和监测预警，强化要素保障，搞好企业服务，确保工业平稳运行。尤其要把推动制造业高质量发展作为促进工业稳定增长的重要抓手，开展智能制造引领，重点技术攻坚，传统产业提质，新兴产业培育四大行动，重点支持主营业务收入100亿元以上大型制造业企业和50亿元以上高成长制造业企业发展。同时，加快推进现代服务业和先进制造业深度融合，为巩固稳中有进发展态势夯实基础。",
+			"responsibleUnit": "工信局,发改委,财政局,科技局,统计局",
+			"supervisionUnit": "财政局",
+			"cooperator": "科技局",
+			"deadline": "2019-03-23",
+			"extendedState": [{
+					"timeNode": "01月",
+					"state": 1,
+					"statedesc": "正常"
+				},
+				{
+					"timeNode": "02月",
+					"state": 1,
+					"statedesc": "正常"
+				},
+				{
+					"timeNode": "03月",
+					"state": 2,
+					"statedesc": "提醒"
+				},
+				{
+					"timeNode": "04月",
+					"state": 3,
+					"statedesc": "超期"
+				},
+				{
+					"timeNode": "05月",
+					"state": 1,
+					"statedesc": "正常"
+				},
+				{
+					"timeNode": "06月",
+					"state": 1,
+					"statedesc": "正常"
+				},
+				{
+					"timeNode": "07月",
+					"state": 0,
+					"statedesc": "未到期"
+				},
+				{
+					"timeNode": "08月",
+					"state": 0,
+					"statedesc": "未到期"
+				},
+				{
+					"timeNode": "09月",
+					"state": 0,
+					"statedesc": "未到期"
+				},
+				{
+					"timeNode": "10月",
+					"state": 0,
+					"statedesc": "未到期"
+				},
+				{
+					"timeNode": "11月",
+					"state": 0,
+					"statedesc": "未到期"
+				},
+				{
+					"timeNode": "12月",
+					"state": 0,
+					"statedesc": "未到期"
+				}
+
+			],
+			"taskState": [{
+					"timeNode": "01月",
+					"state": 2,
+					"statedesc": "滞后"
+
+				},
+				{
+					"timeNode": "02月",
+					"state": 3,
+					"statedesc": "严重滞后"
+
+				},
+				{
+					"timeNode": "03月",
+					"state": 2,
+					"statedesc": "滞后"
+
+				},
+				{
+					"timeNode": "04月",
+					"state": 3,
+					"statedesc": "严重滞后"
+
+				},
+				{
+					"timeNode": "05月",
+					"state": 1,
+					"statedesc": "正常"
+
+				},
+				{
+					"timeNode": "06月",
+					"state": 1,
+					"statedesc": "正常"
+
+				},
+				{
+					"timeNode": "07月",
+					"state": 0,
+					"statedesc": "推进中"
+
+				},
+				{
+					"timeNode": "08月",
+					"state": 0,
+					"statedesc": "推进中"
+
+				},
+				{
+					"timeNode": "09月",
+					"state": 0,
+					"statedesc": "推进中"
+
+				},
+				{
+					"timeNode": "10月",
+					"state": 0,
+					"statedesc": "推进中"
+
+				},
+				{
+					"timeNode": "11月",
+					"state": 0,
+					"statedesc": "推进中"
+
+				},
+				{
+					"timeNode": "12月",
+					"state": 0,
+					"statedesc": "推进中"
+
+				}
+			]
+		},
+		{
+			"id": "02",
+			"goalTask": "5.改善优化营商环境，增强微观主体活力。",
+			"requirement": "切实。尤其要把推动制造业高质量发展作为促进工业稳定增长的重要抓手，开展智能制造引领，重点技术攻坚，传统产业提质，新兴产业培育四大行动，重点支持主营业务收入100亿元以上大型制造业企业和50亿元以上高成长制造业企业发展。同时，加快推进现代服务业和先进制造业深度融合，为巩固稳中有进发展态势夯实基础。",
+			"responsibleUnit": "工信局,发改委,财政局,科技局,统计局",
+			"supervisionUnit": "财政局",
+			"cooperator": "科技局",
+			"deadline": "2019-03-23",
+			"extendedState": [{
+					"timeNode": "01月",
+					"state": 2,
+					"statedesc": "提醒"
+				},
+				{
+					"timeNode": "02月",
+					"state": 3,
+					"statedesc": "超期"
+				},
+				{
+					"timeNode": "03月",
+					"state": 2,
+					"statedesc": "提醒"
+				},
+				{
+					"timeNode": "04月",
+					"state": 3,
+					"statedesc": "超期"
+				},
+				{
+					"timeNode": "05月",
+					"state": 1,
+					"statedesc": "正常"
+				},
+				{
+					"timeNode": "06月",
+					"state": 1,
+					"statedesc": "正常"
+				},
+				{
+					"timeNode": "07月",
+					"state": 0,
+					"statedesc": "未到期"
+				},
+				{
+					"timeNode": "08月",
+					"state": 0,
+					"statedesc": "未到期"
+				},
+				{
+					"timeNode": "09月",
+					"state": 0,
+					"statedesc": "未到期"
+				},
+				{
+					"timeNode": "10月",
+					"state": 0,
+					"statedesc": "未到期"
+				},
+				{
+					"timeNode": "11月",
+					"state": 0,
+					"statedesc": "未到期"
+				},
+				{
+					"timeNode": "12月",
+					"state": 0,
+					"statedesc": "未到期"
+				}
+
+			],
+			"taskState": [{
+					"timeNode": "01月",
+					"state": 2,
+					"statedesc": "滞后"
+
+				},
+				{
+					"timeNode": "02月",
+					"state": 1,
+					"statedesc": "正常"
+
+				},
+				{
+					"timeNode": "03月",
+					"state": 2,
+					"statedesc": "滞后"
+
+				},
+				{
+					"timeNode": "04月",
+					"state": 3,
+					"statedesc": "严重滞后"
+
+				},
+				{
+					"timeNode": "05月",
+					"state": 1,
+					"statedesc": "正常"
+
+				},
+				{
+					"timeNode": "06月",
+					"state": 1,
+					"statedesc": "正常"
+
+				},
+				{
+					"timeNode": "07月",
+					"state": 0,
+					"statedesc": "推进中"
+
+				},
+				{
+					"timeNode": "08月",
+					"state": 0,
+					"statedesc": "推进中"
+
+				},
+				{
+					"timeNode": "09月",
+					"state": 0,
+					"statedesc": "推进中"
+
+				},
+				{
+					"timeNode": "10月",
+					"state": 0,
+					"statedesc": "推进中"
+
+				},
+				{
+					"timeNode": "11月",
+					"state": 0,
+					"statedesc": "推进中"
+
+				},
+				{
+					"timeNode": "12月",
+					"state": 0,
+					"statedesc": "推进中"
+
+				}
+			]
+		},
+		{
+			"id": "03",
+			"goalTask": "5.改善优化营商环境，增强微观主体活力。",
+			"requirement": "切实。尤其要把推动制造业高质量发展作为促进工业稳定增长的重要抓手，开展智能制造引领，重点技术攻坚，传统产业提质，新兴产业培育四大行动，重点支持主营业务收入100亿元以上大型制造业企业和50亿元以上高成长制造业企业发展。同时，加快推进现代服务业和先进制造业深度融合，为巩固稳中有进发展态势夯实基础。",
+			"responsibleUnit": "工信局,发改委,财政局,科技局,统计局",
+			"supervisionUnit": "财政局",
+			"cooperator": "科技局",
+			"deadline": "2019-03-23",
+			"extendedState": [{
+					"timeNode": "01月",
+					"state": 2,
+					"statedesc": "提醒"
+				},
+				{
+					"timeNode": "02月",
+					"state": 3,
+					"statedesc": "超期"
+				},
+				{
+					"timeNode": "03月",
+					"state": 2,
+					"statedesc": "提醒"
+				},
+				{
+					"timeNode": "04月",
+					"state": 3,
+					"statedesc": "超期"
+				},
+				{
+					"timeNode": "05月",
+					"state": 1,
+					"statedesc": "正常"
+				},
+				{
+					"timeNode": "06月",
+					"state": 1,
+					"statedesc": "正常"
+				},
+				{
+					"timeNode": "07月",
+					"state": 0,
+					"statedesc": "未到期"
+				},
+				{
+					"timeNode": "08月",
+					"state": 0,
+					"statedesc": "未到期"
+				},
+				{
+					"timeNode": "09月",
+					"state": 0,
+					"statedesc": "未到期"
+				},
+				{
+					"timeNode": "10月",
+					"state": 0,
+					"statedesc": "未到期"
+				},
+				{
+					"timeNode": "11月",
+					"state": 0,
+					"statedesc": "未到期"
+				},
+				{
+					"timeNode": "12月",
+					"state": 0,
+					"statedesc": "未到期"
+				}
+		
+			],
+			"taskState": [{
+					"timeNode": "01月",
+					"state": 2,
+					"statedesc": "滞后"
+		
+				},
+				{
+					"timeNode": "02月",
+					"state": 1,
+					"statedesc": "正常"
+		
+				},
+				{
+					"timeNode": "03月",
+					"state": 2,
+					"statedesc": "滞后"
+		
+				},
+				{
+					"timeNode": "04月",
+					"state": 3,
+					"statedesc": "严重滞后"
+		
+				},
+				{
+					"timeNode": "05月",
+					"state": 1,
+					"statedesc": "正常"
+		
+				},
+				{
+					"timeNode": "06月",
+					"state": 1,
+					"statedesc": "正常"
+		
+				},
+				{
+					"timeNode": "07月",
+					"state": 0,
+					"statedesc": "推进中"
+		
+				},
+				{
+					"timeNode": "08月",
+					"state": 0,
+					"statedesc": "推进中"
+		
+				},
+				{
+					"timeNode": "09月",
+					"state": 0,
+					"statedesc": "推进中"
+		
+				},
+				{
+					"timeNode": "10月",
+					"state": 0,
+					"statedesc": "推进中"
+		
+				},
+				{
+					"timeNode": "11月",
+					"state": 0,
+					"statedesc": "推进中"
+		
+				},
+				{
+					"timeNode": "12月",
+					"state": 0,
+					"statedesc": "推进中"
+		
+				}
+			]
+		},
+		{
+			"id": "04",
+			"goalTask": "5.改善优化营商环境，增强微观主体活力。",
+			"requirement": "切实。尤其要把推动制造业高质量发展作为促进工业稳定增长的重要抓手，开展智能制造引领，重点技术攻坚，传统产业提质，新兴产业培育四大行动，重点支持主营业务收入100亿元以上大型制造业企业和50亿元以上高成长制造业企业发展。同时，加快推进现代服务业和先进制造业深度融合，为巩固稳中有进发展态势夯实基础。",
+			"responsibleUnit": "工信局,发改委,财政局,科技局,统计局",
+			"supervisionUnit": "财政局",
+			"cooperator": "科技局",
+			"deadline": "2019-03-23",
+			"extendedState": [{
+					"timeNode": "01月",
+					"state": 2,
+					"statedesc": "提醒"
+				},
+				{
+					"timeNode": "02月",
+					"state": 3,
+					"statedesc": "超期"
+				},
+				{
+					"timeNode": "03月",
+					"state": 2,
+					"statedesc": "提醒"
+				},
+				{
+					"timeNode": "04月",
+					"state": 3,
+					"statedesc": "超期"
+				},
+				{
+					"timeNode": "05月",
+					"state": 1,
+					"statedesc": "正常"
+				},
+				{
+					"timeNode": "06月",
+					"state": 1,
+					"statedesc": "正常"
+				},
+				{
+					"timeNode": "07月",
+					"state": 0,
+					"statedesc": "未到期"
+				},
+				{
+					"timeNode": "08月",
+					"state": 0,
+					"statedesc": "未到期"
+				},
+				{
+					"timeNode": "09月",
+					"state": 0,
+					"statedesc": "未到期"
+				},
+				{
+					"timeNode": "10月",
+					"state": 0,
+					"statedesc": "未到期"
+				},
+				{
+					"timeNode": "11月",
+					"state": 0,
+					"statedesc": "未到期"
+				},
+				{
+					"timeNode": "12月",
+					"state": 0,
+					"statedesc": "未到期"
+				}
+		
+			],
+			"taskState": [{
+					"timeNode": "01月",
+					"state": 2,
+					"statedesc": "滞后"
+		
+				},
+				{
+					"timeNode": "02月",
+					"state": 1,
+					"statedesc": "正常"
+		
+				},
+				{
+					"timeNode": "03月",
+					"state": 2,
+					"statedesc": "滞后"
+		
+				},
+				{
+					"timeNode": "04月",
+					"state": 3,
+					"statedesc": "严重滞后"
+		
+				},
+				{
+					"timeNode": "05月",
+					"state": 1,
+					"statedesc": "正常"
+		
+				},
+				{
+					"timeNode": "06月",
+					"state": 1,
+					"statedesc": "正常"
+		
+				},
+				{
+					"timeNode": "07月",
+					"state": 0,
+					"statedesc": "推进中"
+		
+				},
+				{
+					"timeNode": "08月",
+					"state": 0,
+					"statedesc": "推进中"
+		
+				},
+				{
+					"timeNode": "09月",
+					"state": 0,
+					"statedesc": "推进中"
+		
+				},
+				{
+					"timeNode": "10月",
+					"state": 0,
+					"statedesc": "推进中"
+		
+				},
+				{
+					"timeNode": "11月",
+					"state": 0,
+					"statedesc": "推进中"
+		
+				},
+				{
+					"timeNode": "12月",
+					"state": 0,
+					"statedesc": "推进中"
+		
+				}
+			]
+		}
+	]
+}

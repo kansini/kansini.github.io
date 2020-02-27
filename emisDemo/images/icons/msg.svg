@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>msg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="16" cy="16" r="16"></circle>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="notifyItem" transform="translate(0.000000, -14.000000)">
+            <g id="Icon">
+                <g transform="translate(0.000000, 12.000000)">
+                    <g id="Element/Misc/Circle-Icon" transform="translate(0.000000, 2.000000)">
+                        <g>
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Base" fill="#FFFFFF" xlink:href="#path-1"></use>
+                            <g id="Oval" opacity="0.2" mask="url(#mask-2)" fill="#BFC5D2">
+                                <circle cx="16" cy="16" r="16"></circle>
+                            </g>
+                            <g id="Element/Icon/Message" mask="url(#mask-2)" fill="#8798AD">
+                                <g transform="translate(8.000000, 8.000000)" id="🎨-Icon-color">
+                                    <path d="M3.43478261,8.30434783 L9.52173913,8.30434783 L9.52173913,7.08695652 L3.43478261,7.08695652 L3.43478261,8.30434783 Z M3.43478261,5.86956522 L11.9565217,5.86956522 L11.9565217,4.65217391 L3.43478261,4.65217391 L3.43478261,5.86956522 Z M13.173913,10.7391304 L10.1304348,10.7391304 L10.1304348,13.7211304 C8.74321739,13.4386957 7.69565217,12.2091304 7.69565217,10.7391304 L2.2173913,10.7391304 L2.2173913,2.2173913 L13.173913,2.2173913 L13.173913,10.7391304 Z M13.173913,1 L2.2173913,1 C1.546,1 1,1.546 1,2.2173913 L1,10.7391304 C1,11.4105217 1.546,11.9565217 2.2173913,11.9565217 L6.6553913,11.9565217 C7.18069565,13.7144348 8.8126087,15 10.7391304,15 L11.3478261,15 L11.3478261,11.9565217 L13.173913,11.9565217 C13.8453043,11.9565217 14.3913043,11.4105217 14.3913043,10.7391304 L14.3913043,2.2173913 C14.3913043,1.546 13.8453043,1 13.173913,1 L13.173913,1 Z"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

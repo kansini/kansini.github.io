@@ -1,0 +1,27 @@
+{
+	"swiperOption": {
+		"speed": 3000,
+		"autoplay": {
+			"delay": 3e4,
+			"disableOnInteraction": false,
+			"waitForTransition": true
+		},
+		"loop": true,
+		"grabCursor": true,
+		"effect": "coverflow",
+		"coverflowEffect": {
+			"rotate": 30,
+			"stretch": 10,
+			"depth": 60,
+			"modifier": 2,
+			"slideShadows": false
+		},
+		"parallax": true,
+		"pagination": {
+			"el": ".swiper-pagination",
+			"clickable": true
+		},
+		"observer": true,
+		"observeParents": true
+	}
+}
