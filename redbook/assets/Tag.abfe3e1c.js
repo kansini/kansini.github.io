@@ -1,1 +1,0 @@
-import{_ as e,f as s,t as _,o as a}from"./index.fc5d5ebf.js";const o={name:"Tag",props:{title:{type:String}}};const n={class:"tag"};function c(r,p,t,i,f,d){return a(),s("div",n,_(t.title),1)}const g=e(o,[["render",c],["__scopeId","data-v-f724f970"]]);export{g as T};
