@@ -1,0 +1,82 @@
+{
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "hotKeyword": "<span class=\"xr_highlight\">瑜伽</span>",
+        "hotScore": "1592010",
+        "noteCount": "28701",
+        "keyword": "瑜伽",
+        "level": 4
+      },
+      {
+        "hotKeyword": "一起来<span class=\"xr_highlight\">瑜伽</span>",
+        "hotScore": "327439",
+        "noteCount": "4500",
+        "keyword": "一起来瑜伽",
+        "level": 2
+      },
+      {
+        "hotKeyword": "<span class=\"xr_highlight\">瑜伽</span>裤",
+        "hotScore": "185016",
+        "noteCount": "2694",
+        "keyword": "瑜伽裤",
+        "level": 2
+      },
+      {
+        "hotKeyword": "<span class=\"xr_highlight\">瑜伽</span>日常",
+        "hotScore": "172824",
+        "noteCount": "3652",
+        "keyword": "瑜伽日常",
+        "level": 2
+      },
+      {
+        "hotKeyword": "<span class=\"xr_highlight\">瑜伽</span>服",
+        "hotScore": "169699",
+        "noteCount": "2939",
+        "keyword": "瑜伽服",
+        "level": 2
+      },
+      {
+        "hotKeyword": "<span class=\"xr_highlight\">瑜伽</span>体式",
+        "hotScore": "75906",
+        "noteCount": "1447",
+        "keyword": "瑜伽体式",
+        "level": 1
+      },
+      {
+        "hotKeyword": "面部<span class=\"xr_highlight\">瑜伽</span>",
+        "hotScore": "56980",
+        "noteCount": "298",
+        "keyword": "面部瑜伽",
+        "level": 1
+      },
+      {
+        "hotKeyword": "<span class=\"xr_highlight\">瑜伽</span>垫",
+        "hotScore": "55512",
+        "noteCount": "728",
+        "keyword": "瑜伽垫",
+        "level": 1
+      },
+      {
+        "hotKeyword": "床上<span class=\"xr_highlight\">瑜伽</span>",
+        "hotScore": "49506",
+        "noteCount": "29",
+        "keyword": "床上瑜伽",
+        "level": 1
+      },
+      {
+        "hotKeyword": "<span class=\"xr_highlight\">瑜伽</span>打卡",
+        "hotScore": "49280",
+        "noteCount": "1342",
+        "keyword": "瑜伽打卡",
+        "level": 1
+      }
+    ],
+    "total": 20,
+    "count": 5000,
+    "resultCount": "10000+",
+    "update_time": ""
+  },
+  "code": 2000
+}
